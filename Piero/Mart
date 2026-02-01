@@ -1,0 +1,12 @@
+
+[Interface]
+PrivateKey = wLzt7bg+nbiDTHpQ81F6yRtIagVA2yKifB+yglm50HM=
+Address = 10.8.0.240/24
+DNS = 1.1.1.1
+
+[Peer]
+PublicKey = eR4Aq/npnXxf7zadG/0Fifla322fQuF7W3/HsTCmLSQ=
+PresharedKey = uy873w3R2ufS9tYKtmygp0zcozZLMpl+3+divd1Ylts=
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 0
+Endpoint = wgserv11.vppphost.com:51831

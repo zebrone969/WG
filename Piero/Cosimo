@@ -1,0 +1,13 @@
+
+
+[Interface]
+PrivateKey = 8ODb9ZbvDeHihEUlLD+8jauTTM+h9/HsxY74whIbVnc=
+Address = 10.8.0.177/24
+DNS = 1.1.1.1
+
+[Peer]
+PublicKey = 7WZg/hSA6Z1LxoqmkqOdEozZK4HhOYKRd+xX0T3wRHI=
+PresharedKey = qm0LUi7iNmh8nr78OY++ukszKC6ZW40zhQJ+LLlHcvM=
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 0
+Endpoint = wgserv3.vppphost.com:51823

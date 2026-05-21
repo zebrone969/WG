@@ -1,0 +1,12 @@
+[Interface]
+# Name = Fancesco cognato Fabio
+PrivateKey = 6JKWDH+XHDK+T05FhNqXSgMy2+4X5zwst0f+pf3SAnk=
+Address = 10.8.0.146/24
+DNS = 1.1.1.1
+
+[Peer]
+PublicKey = CAygxUOtHudS8SYGXBgS6sCKo+zJklALeXKYCDeNbCo=
+PresharedKey = b9RdWjVwGmnGnQCPhNn/pOKYvimAmiNKu8bihFg4gLg=
+AllowedIPs = 0.0.0.0/0, ::/0
+PersistentKeepalive = 0
+Endpoint = wgserv16.vppphost.com:52932
